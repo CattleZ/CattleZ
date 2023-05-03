@@ -1,6 +1,6 @@
 <html>
-    <table style="margin-left: auto; margin-right: auto;" border="9">
-        <tr">
+    <table style="margin-left: auto; margin-right: auto;" border="8">
+        <tr>
             <td>
                
 
