@@ -1,9 +1,8 @@
-### Hi there 👋
-
-<!--
-**CattleZ/CattleZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+               
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+            </td>
+            <td>
+                ![Gorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
+            </td>
+        </tr>
+    </table>
+</html>
